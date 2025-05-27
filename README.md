@@ -11,6 +11,11 @@ Aplikasi web untuk analisis sentimen teks berbahasa Indonesia menggunakan IndoBE
 - **Export Results**: Download hasil dalam format CSV
 - **Fallback Model**: TextBlob sebagai backup jika IndoBERT gagal
 
+## ➡ Streamlit Web App
+```
+https://sentiment-analysis-with-qwen.streamlit.app
+```
+
 ## 🚀 Quick Start
 
 ### 1. Instalasi Otomatis
