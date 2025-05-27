@@ -34,7 +34,7 @@ streamlit run pengajar.py
 ## 📋 Requirements
 
 ### Python Dependencies
-- Python 3.8+
+- Python 3.9+
 - Streamlit 1.28+
 - PyTorch 2.0+
 - Transformers 4.21+
