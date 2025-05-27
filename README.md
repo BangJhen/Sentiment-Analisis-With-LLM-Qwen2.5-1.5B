@@ -1,4 +1,4 @@
-# 🐦 Analisis Sentimen Twitter Indonesia
+# 🐦 Analisis Sentimen Indonesia
 
 Aplikasi web untuk analisis sentimen teks berbahasa Indonesia menggunakan IndoBERT dan evaluasi dengan OLLAMA/Qwen.
 
@@ -12,7 +12,7 @@ Aplikasi web untuk analisis sentimen teks berbahasa Indonesia menggunakan IndoBE
 - **Fallback Model**: TextBlob sebagai backup jika IndoBERT gagal
 
 ## ➡ Streamlit Web App
-sentiment-analysis-with-qwen.streamlit.app
+[sentiment-analysis-with-qwen.streamlit.app](https://sentiment-analysis-with-qwen.streamlit.app)
 
 
 ## 🚀 Quick Start
